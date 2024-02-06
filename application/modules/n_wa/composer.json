@@ -1,0 +1,6 @@
+{
+    "require": {
+        "netflie/whatsapp-cloud-api": "dev-main",
+        "symfony/deprecation-contracts": "2.5.2"
+    }
+}

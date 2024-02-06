@@ -1,0 +1,1 @@
+<?php include(FCPATH . 'application/modules/affiliate_system/views/affiliate/get_affiliate_link.php'); ?>

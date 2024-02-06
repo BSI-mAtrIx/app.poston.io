@@ -1,0 +1,1 @@
+<?php include(FCPATH . 'application/modules/blog/views/blog_post_details.php'); ?>

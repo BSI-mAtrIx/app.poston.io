@@ -1,0 +1,1 @@
+<?php include(FCPATH . 'application/modules/affiliate_system/views/withdrawals/methods.php'); ?>

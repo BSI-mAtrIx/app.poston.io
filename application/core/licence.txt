@@ -1,0 +1,1 @@
+{"is_active":"42cc0235ad4087826c0860778a21602f","purchase_code":"a1ae477a-c9b2-4d8d-9449-f1a07b9488b5","item_name":"ChatPion: AI Chatbot for Facebook, Instagram, eCommerce, SMS\/Email & Social Media Marketing (SaaS)","buy_at":"2019-12-02T16:35:52+11:00","licence_type":"Extended License","domain":"app.poston.io","checking_date":"2024-01-28"}

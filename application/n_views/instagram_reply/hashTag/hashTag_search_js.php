@@ -1,0 +1,1 @@
+<script src="<?php echo base_url('n_assets/js/system/instagram/hash_tag.js'); ?>"></script>

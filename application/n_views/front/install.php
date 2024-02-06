@@ -1,0 +1,1 @@
+<?php include(FCPATH . 'application/views/front/install.php'); ?>

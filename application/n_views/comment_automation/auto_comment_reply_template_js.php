@@ -1,0 +1,1 @@
+<script src=<?php echo base_url(); ?>n_assets/js/system/instagram/auto_comment_reply_template.js?ver=<?php echo $n_config['theme_version']; ?>"></script>
