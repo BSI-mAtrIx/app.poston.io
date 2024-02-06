@@ -1,0 +1,11 @@
+{
+ "listItems": [
+   {"name":"Bot Settings", "url":"/messenger_bot/bot_list","icon":"bx bxs-cog"},
+   {"name":"Post-back Manager", "url":"/messenger_bot/template_manager","icon":"bx bxs-grid"},
+   {"name":"Manage Templates", "url":"/messenger_bot/otn_template_manager","icon":"bx bxs-checkbox-checked"},
+   {"name":"OTN Report", "url":"/messenger_bot/otn_subscribers","icon":"bx bx-bullseye"},
+   {"name":"Whitelisted Domains", "url":"/messenger_bot/domain_whitelist","icon":"bx bx-check-circle"},
+   {"name":"Checkbox Plugin", "url":"/messenger_bot_enhancers/checkbox_plugin_list","icon":"bx bxs-checkbox-checked"},
+   {"name":"Send to Messenger", "url":"/messenger_bot_enhancers/send_to_messenger_list","icon":"bx bx-paper-plane"}
+ ]
+}

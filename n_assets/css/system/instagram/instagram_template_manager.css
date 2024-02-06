@@ -1,0 +1,3 @@
+.dropdown-toggle::before { content:none !important; }
+.add_template,.ref_template{font-size: 10px;}
+.select2{width:100%!important;}

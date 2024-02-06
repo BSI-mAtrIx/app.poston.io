@@ -1,0 +1,63 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60" xml:space="preserve" data-animoptions="{'duration':'0.9', 'repeat':'0', 'repeatDelay':'0.3'}">
+	<g class="lievo-main">
+		<g class="lievo-common">
+			<line class="lievo-savelinecap lievo-altstroke" fill="none" stroke="#34495E" stroke-width="4" stroke-miterlimit="10" x1="8" y1="14" x2="8" y2="46"/>
+			<line class="lievo-savelinecap" fill="none" stroke="#34495E" stroke-width="2" stroke-miterlimit="10" x1="15" y1="14" x2="15" y2="46"/>
+			<line class="lievo-savelinecap" fill="none" stroke="#34495E" stroke-width="4" stroke-miterlimit="10" x1="20" y1="14" x2="20" y2="46"/>
+			<line class="lievo-savelinecap" fill="none" stroke="#34495E" stroke-width="4" stroke-miterlimit="10" x1="28" y1="14" x2="28" y2="46"/>
+			<line class="lievo-savelinecap" fill="none" stroke="#34495E" stroke-width="2" stroke-miterlimit="10" x1="33" y1="14" x2="33" y2="46"/>
+			<line class="lievo-savelinecap" fill="none" stroke="#34495E" stroke-width="2" stroke-miterlimit="10" x1="37" y1="14" x2="37" y2="46"/>
+			<line class="lievo-savelinecap" fill="none" stroke="#34495E" stroke-width="2" stroke-miterlimit="10" x1="43" y1="14" x2="43" y2="46"/>
+			<line class="lievo-savelinecap" fill="none" stroke="#34495E" stroke-width="4" stroke-miterlimit="10" x1="48" y1="14" x2="48" y2="46"/>
+			<line class="lievo-savelinecap" fill="none" stroke="#34495E" stroke-width="2" stroke-miterlimit="10" x1="53" y1="14" x2="53" y2="46"/>
+			<line class="lievo-donotdraw lievo-savelinecap lievo-altstroke" fill="none" stroke="#34495E" stroke-width="4" stroke-miterlimit="10" x1="-2" y1="6" x2="62" y2="6" opacity="0" data-animdata="
+                {
+                    'steps':[
+                        {
+                            'position':'0',
+                            'duration':'0',
+                            'vars':{
+                                'opacity':'0.7'
+                            }
+                        },
+                        {
+                            'position':'+=0',
+                            'duration':'1',
+                            'vars':{
+                                'y':'+=48'
+                            }
+                        },
+                        {
+                            'position':'+=0',
+                            'duration':'0',
+                            'vars':{
+                                'opacity':'0'
+                            }
+                        },
+                        {
+                            'position':'+=1',
+                            'duration':'0',
+                            'vars':{
+                                'opacity':'0.7'
+                            }
+                        },
+                        {
+                            'position':'+=0',
+                            'duration':'1',
+                            'vars':{
+                                'y':'0'
+                            }
+                        },
+                        {
+                            'position':'+=0',
+                            'duration':'0',
+                            'vars':{
+                                'opacity':'0'
+                            }
+                        }
+                    ]
+                }
+            "/>
+		</g>
+	</g>
+</svg>
