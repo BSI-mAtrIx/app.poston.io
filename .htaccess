@@ -1,0 +1,31 @@
+ RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* index.php?/$0 [PT,L] 
+
+<Files ~ "^.*\.([Pp][Hh][Pp])"> #PHP protection
+    Order Deny,Allow
+    Deny from all
+</Files>
+
+<Files index.php>
+    Order Allow,Deny
+    Allow from all
+</Files>
+
+
+
+
+
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELLOW UPGRADE_INSECURE_REQUESTS:app.poston.io
+Header always set Content-Security-Policy: upgrade-insecure-requests
+# DO NOT REMOVE THIS LINE AND THE LINES BELLOW UPGRADE_INSECURE_REQUESTS:app.poston.io
+
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELLOW SSL_REDIRECT:app.poston.io
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} (www\.)?app.poston.io
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# DO NOT REMOVE THIS LINE AND THE LINES BELLOW SSL_REDIRECT:app.poston.io

@@ -1,0 +1,21 @@
+{
+                    "name": "",
+                    "short_name": "",
+                    "description": "",
+                    "orientation": "portrait",
+                    "start_url": "/?utm_source=pwa_homescreen",
+                    "display": "standalone",
+                    "theme_color": "",
+                    "background_color": "",
+                    "related_applications": [{
+						"platform": "webapp",
+						"url": "/27_manifest.json"
+					}],
+                    "icons": [
+                        {
+                            "src": "",
+                            "sizes": "512x512",
+                            "type": "image/png"
+                        }
+                    ]
+                }
